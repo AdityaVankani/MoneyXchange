@@ -25,7 +25,7 @@ To run the Currency Converter locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AdityaVankani/MoneyXchange.git
    cd currency-converter-react
 2. **Install dependencies:**:
     ```bash 
